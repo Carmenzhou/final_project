@@ -7,6 +7,12 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
 ```
 
 # Final Project 
+```{r}
+df = read.csv("./data/winemag-data_first150k.csv")
+df
+```
+
