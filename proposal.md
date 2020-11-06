@@ -3,11 +3,11 @@ Final Project Proposal
 Zhourong Li (zl2977), Yubei Liang (yl4606), Leo Liu (ll3452), Cong Zhang
 (cz2612), Ruwen Zhou (rz2530)
 
-#### Tentative project title
+## Tentative project title
 
 CHEERS\! Professional Wine Reviews Worldwide
 
-#### Motivation
+## Motivation
 
 Wine is an essential component in western food culture. Due to the
 variety of wine brands, people may easily get lost. Therefore, we would
@@ -16,7 +16,7 @@ guidance for wine lovers based on variety, location, winery, score and
 price. Wine lovers can select and buy wines more easily with information
 provided on our website.
 
-#### Intended final products
+## Intended final products
 
   - World-wide maps showing the region of wine growing
   - Ranking of wines by score
@@ -25,7 +25,7 @@ provided on our website.
   - The popularity of different types of grapes used to make the wine
   - Evaluting winery by variety, score and price of wines produced
 
-#### Anticipated data resources
+## Anticipated data resources
 
 Our dataset [Wine
 Reviews](https://www.kaggle.com/zynicide/wine-reviews?select=winemag-data_first150k.csv)
@@ -39,7 +39,7 @@ wine on a scale of 1-100 ), price, province, region\_1, region\_2,
 variety ( the type of grapes used to make the wine ), winery ( the
 winery that made the wine ).
 
-#### Planned analyses / visualizations / coding challenges
+## Planned analyses / visualizations / coding challenges
 
   - The dataset is very large with more than 150,000 rows, so it might
     cost us more time to tidy, filter and clean data.
@@ -48,7 +48,7 @@ winery that made the wine ).
     create a map showing all this information all together.
   - Dealing with text attributes.
 
-#### Planned timeline
+## Planned timeline
 
   - November 5-7: group meeting, write the proposal document
   - November 8-13: discuss the framework of the project, prepare and do
